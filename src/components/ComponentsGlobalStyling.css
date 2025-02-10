@@ -1,0 +1,109 @@
+.filter-control-cont-cont {
+  display: inline-block;
+    /*width: 16.5rem;*/
+}
+
+.filter-control-cont {
+  display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    min-width: 15.2rem;
+    max-width: 14.0rem;
+    flex-grow: 2;
+    height: 2rem;
+    margin-bottom: 0.6rem;
+    margin-left: 1%;
+    margin-right: 3%;
+}
+
+.filter-control-date-cont { 
+
+}
+
+
+.dates-filter .filter-control-cont {
+
+}
+
+.filter-control-cont > .filter-control-caption {
+  position: absolute;
+    z-index: 2;
+    top: -5px;
+    left: 12px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    color: #0000d9;
+    background: wheat;
+    border-radius: 3px;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+.filter-field,
+.airport-filter-field-list li {
+  padding: 4px 5px;
+  font-size: 0.90rem;
+  font-weight: bold;
+  color: #737d94;        
+  margin: 0.3rem;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #919191;
+  border-radius: 3px;
+}
+
+.filter-field,
+.airport-filter-field-list li { 
+  background-color: #fff7f4;
+}
+.airport-filter-field-list li { 
+  border: none;
+  text-align: left;
+}
+
+.airport-filter-field {
+  max-width: 18rem;
+    min-width: 16rem;    
+} 
+.react-datepicker-wrapper .airport-filter-field {
+  max-width: 16rem;
+    min-width: 15.1rem;
+}
+
+.airport-filter-field,
+.date-filter-field,
+.cabin-class-filter-field {
+  padding-top: 8px;
+    padding-left: 10px;
+    padding-right: 1px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    flex-grow: 1;
+
+}
+
+.airport-filter-field-cont {
+  position: absolute !important;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+}
+
+input.airport-filter-field {
+  padding-left: 8px;
+}
+
+.react-datepicker-wrapper .airport-filter-field {
+
+}
+
+.airport-item {
+
+}
+
+.filter-select-option {
+
+}

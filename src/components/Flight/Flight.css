@@ -1,0 +1,73 @@
+.flight {
+  border: 1px solid;
+    border-color: #ffc6ac;
+    border-radius: 2px;
+    margin-bottom: 1.3rem;
+    text-align: left;
+    padding: 0.7rem;
+    padding-top: 0.45rem;
+    background-color: #e4e6ea;
+}
+
+.flight-header {
+  /* margin-top: 0.2rem; */
+    margin-bottom: 0.4rem;
+}
+
+.flight-field {
+  display: inline-flex;
+    align-items: center;
+    margin-right: 2.0em;
+}
+  .flight-id-field {
+
+  }
+  .flight-price-field {
+    align-items: center;
+    justify-content: center;
+    width: 28%;
+  }
+
+  .flight-id-field span {
+
+  }
+  .flight-price-field span {
+    color: #000080 !important;
+  }
+
+.flight-field label {
+  font-size: 0.95rem;
+    color: #fe8045;
+    font-weight: bold;
+    margin-right: 0.4rem;
+    white-space: nowrap;
+}
+
+.flight-field span {
+  font-size: 0.8rem;
+    color: #707990;
+    font-weight: normal;
+}
+
+.flight-id-span {
+  display: inline-block;
+    max-width: 21rem;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.flight label span {
+  margin-left: 0.3rem;
+  font-weight: normal;
+}
+
+.flight-id-label span {
+
+}
+
+.flight-legs-cont {
+  padding-left: 0.6rem;
+}
+
+

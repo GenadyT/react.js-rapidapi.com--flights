@@ -1,0 +1,10 @@
+.flights-ul {
+  overflow-y: scroll;
+    height: 25rem;
+    margin-top: 0.9rem;
+    margin-bottom: 5rem;
+    border: 2px solid #b0b5c2;
+    border-radius: 3px;
+    background-color: #eceef1;
+    padding: 1.3rem;
+}

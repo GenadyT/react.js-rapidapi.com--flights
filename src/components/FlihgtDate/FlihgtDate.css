@@ -1,0 +1,8 @@
+.react-datepicker__input-container {
+  position: static !important;
+}
+
+.date-filter-field {
+  max-width: 17.2rem;
+    min-width: 15.2rem;
+}

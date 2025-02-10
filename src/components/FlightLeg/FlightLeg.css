@@ -1,0 +1,82 @@
+.flight-leg {
+  margin-bottom: 0.45rem;
+}
+
+.flight-leg-header {
+
+}
+
+.leg-index {
+  font-size: 0.80rem;
+    color: #fe8045;
+    font-weight: bold;
+    /* margin-right: 0.3rem; */
+}
+
+.flight-leg-header-field {
+  display: inline-block;
+    font-size: 0.80rem;
+    font-weight: normal !important;
+    color: #707990;
+    font-weight: bold;
+    margin-left: 0.6rem;
+    /* margin-right: 0.2rem; */
+}
+
+.flight-leg-header-field label {
+  margin-right: 0.3rem;
+    font-weight: bold;
+    color: #778096;
+}
+
+.flight-leg-body {
+  margin-left: 0.3rem;
+}
+
+.flight-leg-body-field {
+  display: inline-flex;
+    margin-right: 0.5rem;
+}
+  .flight-leg-body-field label {
+    font-weight: bold;
+    margin-right: 0.2rem;
+  }
+  .flight-leg-body-field span {  
+
+  }
+
+
+.leg-section-header {
+  display: inline;
+    font-size: 0.75rem;
+    color: #00a200;
+    margin-right: 0.6rem;
+}
+
+.leg-origin-section-header {
+  
+}
+
+.leg-destination-section-header {
+  
+}
+
+.origin-destination-sec {
+  display: inline-block;
+    margin-bottom: 0.1rem;
+}
+
+.origin-destination-sec .origin-sec {
+
+}
+
+.origin-destination-sec .destination-sec {
+
+}
+
+.origin-destination-sec-body {
+  display: inline-flex;
+    font-size: 0.75rem;
+    color: #1f1f1f;
+}
+

@@ -1,0 +1,24 @@
+.plus-minus-filter-field {
+  margin-top: 8px;
+    margin-left: -10px;
+    width: 83%;
+}
+
+.plus-minus-control-cont {
+  margin-left: 13px;
+    margin-right: 2px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.plus-minus-control-cont output {
+  margin-left: 12px;
+    margin-top: 2px;
+}
+
+
+.plus-minus-control-caption {
+  position: absolute !important;
+    left: 6px !important;
+    top: -10px !important;
+}

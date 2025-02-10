@@ -1,0 +1,38 @@
+.filter {
+  display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 5rem;
+    margin-bottom: 1.0rem;
+    border: 2px solid #fe9e71;
+    border-radius: 3px;
+    padding: 2rem 8%;
+    background-color: #e9ebee;
+} 
+
+.flight-filter {
+
+}
+
+.sub-filter {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.sub-filter.dates-filter {
+
+}
+
+.sub-filter.airport-filter {
+
+}
+
+@media (max-width: 680px) {
+  .filter {
+    padding-left: 2%;
+    padding-right: 4%;
+  }
+}
